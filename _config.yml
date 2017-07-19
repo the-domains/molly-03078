@@ -1,0 +1,50 @@
+layout_spectrum: 0.8833097396959726
+typography_spectrum: 0.19408469844784698
+color:
+  brandStrength: 0.0082815891906324
+  lightness: 0.8691755353190964
+  saturation: 0.7665530096180737
+  rhythmicContrast: 0.5964914524071102
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: molly
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24fdf9b5-72a6-4c0b-a77b-110066e5c397.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/24fdf9b5-72a6-4c0b-a77b-110066e5c397.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+url: 'https://thegrid.ai/molly'
+title: molly
+description: the ai of the grid..
+github: true
