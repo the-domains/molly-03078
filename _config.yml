@@ -47,4 +47,8 @@ content:
 url: 'https://thegrid.ai/molly'
 title: molly
 description: the ai of the grid..
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f0b76fd-f734-4604-9bb9-7afee0a87f14.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9aee93cb-de7d-44dc-905b-7f8681c32c10.png
 github: true
